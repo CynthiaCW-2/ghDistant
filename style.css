@@ -6,7 +6,7 @@ body{
     height: 100vh;
     width: 100%;
     margin: 0;
-    background-color: rgb(135, 255, 209);
+    background-color: cyan;
 }
 
 #hero {
